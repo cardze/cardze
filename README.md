@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Database research
 - 🤔 I’m looking for help with time management
 
-[![cardze's github stats](https://github-readme-stats.vercel.app/api?username=cardze&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardze&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cardze&show_icons=true&include_all_commits=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardze&layout=compact&theme=dracula" />
+</a>
